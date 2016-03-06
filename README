@@ -1,0 +1,10 @@
+ELM-MVClustering
+===========================
+
+This work proposes a novel multi-view clustering
+framework with ELM to further improve clustering performance, and implements
+three algorithms based on this framework. In this framework, the normalized
+features of each individual view are mapped onto a higher dimensional
+feature space by the ELM random mapping.
+
+
